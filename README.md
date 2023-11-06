@@ -28,6 +28,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Deploy
 
-O projeto está disponível em [Geo no Vercel](https://geo-omega-beige.vercel.app/) para visualização.
+O projeto está disponível em [Geo](https://geo-omega-beige.vercel.app/) para visualização.
 
 Seja bem-vindo ao Geo, e sinta-se à vontade para contribuir ou entrar em contato conosco!
